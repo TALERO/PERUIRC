@@ -264,6 +264,14 @@ main .sobre-nosotros{
     text-align: justify;
 }
 
+/* Nuestro Peru - Video */
+
+.peru {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
 /* footer */
 
 footer{

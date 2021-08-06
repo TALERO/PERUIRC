@@ -195,6 +195,15 @@ main .sobre-nosotros{
     transform: scale(1);
 }
 
+
+.cuadroBordeado{
+    width:25%;
+    margin-top:5%;
+    margin-bottom: 5%;
+    margin-left:38%;
+    border-radius:5%;
+}
+
 /* Clients */
 
 .cards{
@@ -376,6 +385,14 @@ footer{
     .oper {
         max-width:300px;
     }
+    
+      .cuadroBordeado{
+        width:50%;
+        margin-top:5%;
+        margin-left:30%;
+        margin-bottom: 8%;
+        border-radius:5%;
+    }
 }
 
 @media screen and (max-width:500px){
@@ -451,5 +468,13 @@ footer{
 
     .titulo-final{
         font-size: 20px;
+    }
+    
+     .cuadroBordeado{
+        width:100%;
+        margin-top:5%;
+        margin-left:0;
+        margin-bottom: 5%;
+        border-radius:7%;
     }
 }

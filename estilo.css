@@ -6,6 +6,7 @@
 
 body {
     font-family: 'open sans';
+    background:#3D2631;
 }
 
 .contenedor {
@@ -138,13 +139,14 @@ main .sobre-nosotros{
     padding: 0px 0px 30px 15px;
     font-weight: 300;
     text-align: justify;
+    color: white;
 }
 
 /* Galeria */
 
 
 .portafolio{
-    background: #f2f2f2;
+    background:#3D2631;
 }
 
 .galeria-port{
